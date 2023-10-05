@@ -1,0 +1,102 @@
+[
+  {
+    "id": 11,
+    "address": "567 College Road, Harare",
+    "agent_name": "Robert Black",
+    "agent_email": "robert.black@email.com",
+    "number_of_rooms": 2,
+    "parking": false,
+    "price": 270,
+    "phone": "+1234567810"
+  },
+  {
+    "id": 12,
+    "address": "890 Campus Street, Harare",
+    "agent_name": "Sarah Green",
+    "agent_email": "sarah.green@email.com",
+    "number_of_rooms": 4,
+    "parking": true,
+    "price": 180,
+    "phone": "+1234567811"
+  },
+  {
+    "id": 13,
+    "address": "345 University Avenue, Harare",
+    "agent_name": "James Brown",
+    "agent_email": "james.brown@email.com",
+    "number_of_rooms": 3,
+    "parking": true,
+    "price": 220,
+    "phone": "+1234567812"
+  },
+  {
+    "id": 14,
+    "address": "678 College Road, Harare",
+    "agent_name": "Emily White",
+    "agent_email": "emily.white@email.com",
+    "number_of_rooms": 2,
+    "parking": false,
+    "price": 150,
+    "phone": "+1234567813"
+  },
+  {
+    "id": 15,
+    "address": "901 Campus Street, Harare",
+    "agent_name": "Daniel Johnson",
+    "agent_email": "daniel.johnson@email.com",
+    "number_of_rooms": 4,
+    "parking": true,
+    "price": 260,
+    "phone": "+1234567814"
+  },
+  {
+    "id": 16,
+    "address": "123 University Avenue, Harare",
+    "agent_name": "Olivia Black",
+    "agent_email": "olivia.black@email.com",
+    "number_of_rooms": 3,
+    "parking": true,
+    "price": 200,
+    "phone": "+1234567815"
+  },
+  {
+    "id": 17,
+    "address": "456 College Road, Harare",
+    "agent_name": "William Green",
+    "agent_email": "william.green@email.com",
+    "number_of_rooms": 4,
+    "parking": false,
+    "price": 290,
+    "phone": "+1234567816"
+  },
+  {
+    "id": 18,
+    "address": "789 Campus Street, Harare",
+    "agent_name": "Ella Smith",
+    "agent_email": "ella.smith@email.com",
+    "number_of_rooms": 2,
+    "parking": true,
+    "price": 230,
+    "phone": "+1234567817"
+  },
+  {
+    "id": 19,
+    "address": "234 University Avenue, Harare",
+    "agent_name": "Henry Brown",
+    "agent_email": "henry.brown@email.com",
+    "number_of_rooms": 3,
+    "parking": true,
+    "price": 120,
+    "phone": "+1234567818"
+  },
+  {
+    "id": 20,
+    "address": "567 College Road, Harare",
+    "agent_name": "Sophia White",
+    "agent_email": "sophia.white@email.com",
+    "number_of_rooms": 2,
+    "parking": false,
+    "price": 270,
+    "phone": "+1234567819"
+  }
+]
