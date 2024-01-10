@@ -40,6 +40,7 @@ padding: 5%;
   background-color:#FF6969;
   height: 10vh;
   margin-top: 2%;
+  display: flex;
 }
 
 #all-houses{

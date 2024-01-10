@@ -1,3 +1,4 @@
+
 [
   {
     "id": 11,
@@ -7,7 +8,9 @@
     "number_of_rooms": 2,
     "parking": false,
     "price": 270,
-    "phone": "+1234567810"
+    "phone": "+1234567810",
+    "shuttle": true,
+    "generator": false
   },
   {
     "id": 12,
@@ -17,7 +20,9 @@
     "number_of_rooms": 4,
     "parking": true,
     "price": 180,
-    "phone": "+1234567811"
+    "phone": "+1234567811",
+    "shuttle": false,
+    "generator": true
   },
   {
     "id": 13,
@@ -27,7 +32,9 @@
     "number_of_rooms": 3,
     "parking": true,
     "price": 220,
-    "phone": "+1234567812"
+    "phone": "+1234567812",
+    "shuttle": true,
+    "generator": true
   },
   {
     "id": 14,
@@ -37,7 +44,9 @@
     "number_of_rooms": 2,
     "parking": false,
     "price": 150,
-    "phone": "+1234567813"
+    "phone": "+1234567813",
+    "shuttle": false,
+    "generator": true
   },
   {
     "id": 15,
@@ -47,7 +56,9 @@
     "number_of_rooms": 4,
     "parking": true,
     "price": 260,
-    "phone": "+1234567814"
+    "phone": "+1234567814",
+    "shuttle": true,
+    "generator": false
   },
   {
     "id": 16,
@@ -57,7 +68,9 @@
     "number_of_rooms": 3,
     "parking": true,
     "price": 200,
-    "phone": "+1234567815"
+    "phone": "+1234567815",
+    "shuttle": false,
+    "generator": true
   },
   {
     "id": 17,
@@ -67,7 +80,9 @@
     "number_of_rooms": 4,
     "parking": false,
     "price": 290,
-    "phone": "+1234567816"
+    "phone": "+1234567816",
+    "shuttle": true,
+    "generator": false
   },
   {
     "id": 18,
@@ -77,7 +92,9 @@
     "number_of_rooms": 2,
     "parking": true,
     "price": 230,
-    "phone": "+1234567817"
+    "phone": "+1234567817",
+    "shuttle": false,
+    "generator": true
   },
   {
     "id": 19,
@@ -87,7 +104,9 @@
     "number_of_rooms": 3,
     "parking": true,
     "price": 120,
-    "phone": "+1234567818"
+    "phone": "+1234567818",
+    "shuttle": true,
+    "generator": false
   },
   {
     "id": 20,
@@ -97,6 +116,8 @@
     "number_of_rooms": 2,
     "parking": false,
     "price": 270,
-    "phone": "+1234567819"
+    "phone": "+1234567819",
+    "shuttle": false,
+    "generator": true
   }
 ]

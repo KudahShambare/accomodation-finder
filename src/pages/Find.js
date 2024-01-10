@@ -6,6 +6,9 @@ const Find = () => {
   const [roomsFilter, setRoomsFilter] = useState("All");
   const [priceFilter, setPriceFilter] = useState("All");
   const [parkingFilter, setParkingFilter] = useState("All");
+  const [generatorFilter, setGeneratorFilter] = useState("All");
+const [shuttleFilter, setShuttleFilter] = useState("All");
+
 
   const handleRoomsFilterChange = (e) => {
     setRoomsFilter(e.target.value);
@@ -18,6 +21,15 @@ const Find = () => {
   const handleParkingFilterChange = (e) => {
     setParkingFilter(e.target.value);
   };
+
+  const handleGeneratorFilterChange = (e) => {
+    setGeneratorFilter(e.target.value);
+  };
+  
+  const handleShuttleFilterChange = (e) => {
+    setShuttleFilter(e.target.value);
+  };
+  
 
   const getPriceRange = (range) => {
     switch (range) {
@@ -95,7 +107,24 @@ const Find = () => {
             <option value="Yes">Yes</option>
             <option value="No">No</option>
           </select>
+
+          <select value={generatorFilter} onChange={handleGeneratorFilterChange}>
+    <option value="All">Generator</option>
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+  </select>
+
+  <select value={shuttleFilter} onChange={handleShuttleFilterChange}>
+    <option value="All">Shuttle</option>
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+  </select>
+
         </section>
+
+        
+
+
       </div>
 
       <div id="all-houses">

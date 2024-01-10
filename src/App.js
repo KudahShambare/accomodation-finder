@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import "./App.css";
 import Home from "./pages/Home";
 import Find from "./pages/Find";
-import Rent from "./pages/Rent"
+import Landlords from "./pages/Landlords"
 
 const App = () => {
   return (
@@ -15,7 +15,7 @@ const App = () => {
 
 <Route exact path="/" element={<Home/>} />
 <Route exact path="/tenants" element={<Find/>} />
-<Route exact path="/lanlords" element={<Rent/>} />
+<Route exact path="/lanlords" element={<Landlords/>} />
 
 
 
